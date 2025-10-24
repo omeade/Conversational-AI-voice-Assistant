@@ -5,8 +5,8 @@ Overview
 Jarvis is a local voice assistant built with Python that combines speech recognition, natural language processing, 
 and text-to-speech synthesis. It creates a continuous conversation loop where you can speak naturally and receive intelligent responses.
 The assistant uses Voice Activity Detection (VAD) to automatically detect when you start and stop speaking, 
-eliminating the need for push-to-talk buttons or wake words. Once activated, it transcribes your speech using the Whisper model, sends the text to a local Ollama AI model for processing, 
-and speaks the response back to you using text-to-speech.
+eliminating the need for push-to-talk buttons or wake words. Once it is activated, it transcribes your speech using the Whisper model, sends the text to a local Ollama AI model for processing, 
+and says the response back to you using text-to-speech.
 
 I created this project off inspiration from Jarvis in the Avengers movies. I thought it would be a cool project that I could work on and challange myself in.
 
